@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "On.MongoMigrations": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "ENVIRONMENT ": "LOCAL"
+      }
+    }
+  }
+}

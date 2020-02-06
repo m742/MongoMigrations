@@ -1,0 +1,9 @@
+C:\Users\100517\source\repos\Domain Application\bin\Debug\netcoreapp3.0\Domain.deps.json
+C:\Users\100517\source\repos\Domain Application\bin\Debug\netcoreapp3.0\Domain.runtimeconfig.json
+C:\Users\100517\source\repos\Domain Application\bin\Debug\netcoreapp3.0\Domain.runtimeconfig.dev.json
+C:\Users\100517\source\repos\Domain Application\bin\Debug\netcoreapp3.0\Domain.dll
+C:\Users\100517\source\repos\Domain Application\bin\Debug\netcoreapp3.0\Domain.pdb
+C:\Users\100517\source\repos\Domain Application\obj\Debug\netcoreapp3.0\Domain.AssemblyInfoInputs.cache
+C:\Users\100517\source\repos\Domain Application\obj\Debug\netcoreapp3.0\Domain.AssemblyInfo.cs
+C:\Users\100517\source\repos\Domain Application\obj\Debug\netcoreapp3.0\Domain.dll
+C:\Users\100517\source\repos\Domain Application\obj\Debug\netcoreapp3.0\Domain.pdb
